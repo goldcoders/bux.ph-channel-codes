@@ -1,4 +1,4 @@
-# Bux.ph Fetch Details Api
+# Bux.ph Fetch Channels Api
 
 > Use With Thriftshop Site as a Serverless Function
 
@@ -418,5 +418,5 @@ cd  bux.ph-channel-codes
 
 ## Production
 
-- make post request with Needed *payload* to `bux.ph-channel-codes.${domain}.com/api`
+- make post request with Needed *payload* to `bux.ph-channel-codes.${yourdomain}.com/api`
 
